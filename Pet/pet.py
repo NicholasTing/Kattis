@@ -1,6 +1,7 @@
 #Coded by Jing Kun Ting
 #Coded on 15/1/2018
 #open.kattis.com problem : Pet
+#Problem : https://open.kattis.com/problems/pet
 
 NUM_CONTESTANTS = 5
 highest_contestant = 0
