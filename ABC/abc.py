@@ -19,7 +19,7 @@ def letter_comparator(letter):
 
 answer = ""
 
-for letter in ABC:
+for letter in ABC: 
     answer += str(letter_comparator(letter))
     answer += " "
 

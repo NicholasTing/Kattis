@@ -1,5 +1,10 @@
-first_data = map(int,raw_input().split(":"))
-second_data = map(int,raw_input().split(":"))
+#Coded by Jing Kun Ting
+#Coded on 17/1/2018
+#open.kattis.com problem : Natrij
+#Problem : https://open.kattis.com/problems/Natrij
+
+first_data = map(int,input().split(":"))
+second_data = map(int,input().split(":"))
 
 first_hour = first_data[0]
 first_minutes = first_data[1]
