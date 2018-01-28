@@ -1,8 +1,9 @@
-#Coded by Jing Kun Ting
-#Coded on ?/?/17
-#open.kattis.com problem : Oddities
-#Problem : https://open.kattis.com/problems/oddities
-#Coded in CPP
+/**Coded by Jing Kun Ting
+*Coded on ?/?/17
+*open.kattis.com problem : Oddities
+*Problem : https://open.kattis.com/problems/oddities
+*Coded in CPP
+*/
 
 #include <cstdio>
 #include <cmath>
