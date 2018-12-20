@@ -11,3 +11,8 @@ Most of the solutions here are to the easy-medium questions.
 
 Programming mostly in Python and C/C++.
 Will try to do some in Java in the near future
+
+Problems Unsolved:
+
+1. Bus Numbers
+2. Heirs
